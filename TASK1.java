@@ -1,4 +1,3 @@
-
 import java.util.*;
 public class TASK1
 {
@@ -60,11 +59,7 @@ public class TASK1
 					System.out.println("Invalid Operation");
 				}
 			}
-			
 		}
-		
-		
-
 	}
 	public static void addition(int a,int b)
 	{
